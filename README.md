@@ -25,4 +25,4 @@ This analysis provides actionable insights to optimize performance and drive str
 
 **Repository Contents**
 
-**SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. SQL Queries PDF 
+**SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL Queries](https://github.com/KonikaMallik/AtliQ-Hardware-Finance-Supply-Chain-Analysis/blob/main/SQLQueries_Atliq.pdf)
